@@ -1,5 +1,5 @@
 -r requirements.txt
-ruff==0.4.4   # Pinned to match pre-commit config
+ruff==0.8.1   # Pinned to match pre-commit config
 isort==5.13.2 # Pinned to match pre-commit config
 mock
 mutmut
